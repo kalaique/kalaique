@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kalaique
+- 👀 I’m interested in automation tests, Python
+- 🌱 I’m currently learning Selenium and CI/CD tools
+- 💞️ I’m looking to collaborate on 
+- 📫 You can reach me at kalaivanique@gmail.com
